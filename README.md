@@ -1,2 +1,9 @@
 # DELTASamples
-More Visualization Samples for DELTA
+This Repository contains more visualization samples of DELTA.
+
+## Geometric
+There are three model pairs provided as described in the original paper.__ 
+Under each folder, visuallzation of different categories are presented.
+
+## Sementic
+More sementic results of COCO dataset are provided in this folder.
