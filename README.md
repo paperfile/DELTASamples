@@ -1,8 +1,8 @@
 # DELTASamples
-This Repository contains more visualization samples of DELTA.
+This repository contains more visualization samples of DELTA.
 
 ## Geometric
-There are three model pairs provided as described in the original paper.<br /> 
+There are three model pairs as described in the original paper.<br /> 
 Under each folder, visuallzation of different categories are presented.
 
 ## Sementic
